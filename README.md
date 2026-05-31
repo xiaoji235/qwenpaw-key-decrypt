@@ -1,4 +1,4 @@
-# qwenpaw-key-decrypt
+# Qwenpaw-Key-Decrypt
 用于解密qwenpaw被加密后的大模型api-key
 
 ## 使用前提
